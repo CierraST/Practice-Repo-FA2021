@@ -1,10 +1,10 @@
-## Student Name (or name you would preferred to be called)
+##  cierra tate (or name you would preferred to be called)
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- intro to DS
 
 - Course 2
 
@@ -16,7 +16,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- fashion
 
 - Thing 2
 
