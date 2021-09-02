@@ -6,9 +6,9 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - intro to DS
 
-- Course 2
+- Intro to Python
 
-- Course 3
+- Analytical Geometery and Calculus 1
 
 - Course 4
 
@@ -18,7 +18,7 @@ I am _passionate about_:
 
 - fashion
 
-- Thing 2
+- Music
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
