@@ -10,7 +10,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Course 3 Intro to data science
 
-- Course 4
+- Course 4 this is a test
 
 **Hobbies:**
 
